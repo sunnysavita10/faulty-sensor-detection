@@ -1,5 +1,6 @@
 pandas
 numpy
 pymongo
+from-root
 
 -e .
